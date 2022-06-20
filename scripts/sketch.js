@@ -47,7 +47,7 @@ function draw() {
   push();
   translate(center.x, center.y);
   fill(gradualGradient(r, g), gradualGradient(r, g), gradualGradient(r, g));
-  text("Happy Father's Day!", 0, 0);
+  text("Happy Father's Day Daddy!", 0, 0);
   pop();
   r++;
 }
